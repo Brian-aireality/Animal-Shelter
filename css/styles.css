@@ -1,3 +1,31 @@
 body {
+  margin: 5px;
   background-color: orange;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+header {
+  background-color: red;
+  
+  text-align: center;
+}
+
+
+.one {
+  margin-left: 200px;
+  float: left;
+}
+
+.two {
+  margin-left: 75px;
+  float: left;
+}
+
+.three {
+  margin-left: 75px;
+  float: left;
 }
